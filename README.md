@@ -1,2 +1,2 @@
-# Schullz1990.io
+# Schullz1990.github.io
 Denio page
